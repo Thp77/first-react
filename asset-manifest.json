@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Thp77.github.io/first-react/static/css/main.7226a5e4.css",
+    "main.js": "/Thp77.github.io/first-react/static/js/main.f5bc9aaa.js",
+    "static/media/down.jpg": "/Thp77.github.io/first-react/static/media/down.42059d08680c6a2b84c6.jpg",
+    "static/media/sea.jpg": "/Thp77.github.io/first-react/static/media/sea.8464fa5e0c3918e4b8d0.jpg",
+    "static/media/git.jpg": "/Thp77.github.io/first-react/static/media/git.7ba628c28c4edf6a8194.jpg",
+    "static/media/2.jpg": "/Thp77.github.io/first-react/static/media/2.f46af31e14dc92267e07.jpg",
+    "static/media/NerkoOne-Regular.ttf": "/Thp77.github.io/first-react/static/media/NerkoOne-Regular.2e8be1a15ff9c6ac9177.ttf",
+    "index.html": "/Thp77.github.io/first-react/index.html",
+    "static/media/voyage.svg": "/Thp77.github.io/first-react/static/media/voyage.5bc2af0ca239166d9554b6fcf7eba22a.svg",
+    "static/media/code.svg": "/Thp77.github.io/first-react/static/media/code.83ef4d5a8a8686c987b399c001525849.svg",
+    "static/media/photo.svg": "/Thp77.github.io/first-react/static/media/photo.597a30963f8a8f78388e9d7d3a913936.svg",
+    "main.7226a5e4.css.map": "/Thp77.github.io/first-react/static/css/main.7226a5e4.css.map",
+    "main.f5bc9aaa.js.map": "/Thp77.github.io/first-react/static/js/main.f5bc9aaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7226a5e4.css",
+    "static/js/main.f5bc9aaa.js"
+  ]
+}
